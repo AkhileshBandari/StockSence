@@ -17,7 +17,7 @@ Professional Backtesting Dashboard with
 
 ## Setup
 
-```bash
+bash
 git clone https://github.com/AkhileshBandari/StockSence.git
 cd StockSence
 python -m venv venv
@@ -26,23 +26,4 @@ pip install -r requirements.txt
 python app.py
 
 Commit and push it too.
-
 ---
-
-# BRUTAL REALITY CHECK
-
-Right now your repo will host **only code**.
-
-If you want this project to be *professional-grade* for recruiters / production, you should also add:
-
-- Unit tests  
-- Data caching (don’t download on every callback)  
-- Config for multiple timeframes  
-- Logging  
-- Docs
-
-If you want help adding any of those, tell me which one first.
-
----
-
-If you hit any errors during the Git push, paste them exactly and I’ll fix them step-by-step.
